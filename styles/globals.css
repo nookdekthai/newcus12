@@ -130,7 +130,7 @@ width: 100%;
 
 .hero-banner-container{
   padding: 100px 40px;
-  background-color: #dcdcdc;
+  background-color: #cb79ca;
   border-radius: 15px;
   position: relative;
   height: 500px;
@@ -144,7 +144,7 @@ width: 100%;
 .hero-banner-container button{
    border-radius: 15px;
   padding: 10px 16px;
-  background-color: #f02d34;
+  background-color: #131010;
   color: white;
   border: none;
   margin-top: 40px;
@@ -212,7 +212,7 @@ text-align: end;
 }
 .footer-banner-container{
   padding: 100px 40px;
-  background-color: #f02d34;
+  background-color: #cb79ca;
   border-radius: 15px;
   position: relative;
   height: 400px;
